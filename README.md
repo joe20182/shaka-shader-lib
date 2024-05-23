@@ -1,7 +1,13 @@
-usage:
+## Install
+
+```
+npm install shaka-shader-lib
+```
+
+## Usage
 
 ```js
-import { UnderwaterEffect } from "./UnderwaterEffect.js";
+import { UnderwaterEffect } from "shaka-shader-lib";
 
 // Other codes...
 
